@@ -1,12 +1,12 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
 Today's incidents,,,,,
 ,,,,,
-,Emergency closure,,Main St.,Something happened,
+,Emergency closure,,Main St.,Something happened,x
 ,Traffic advisory,,,,
 ,Clarke County,,,,
 ,,,,,
 ,Injury collision,,Third and Upper,Another redlight runner,
-,Injury collision,,,,
+,Injury collision,,test,,
 ,Injury collision,,,,
 ,Injury collision,,,,
 ,Injury collision,,,,
