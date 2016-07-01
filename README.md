@@ -1,6 +1,6 @@
 ## Using the sectionHeading column 
 
-Add text to the sectionHeading column **of the first row**. The text will appear in large text at the top of the section.
+Add text to the sectionHeading column **of the first row**. The text will be a large heading at the top of the section.
 
 ## Schedule closures
 
