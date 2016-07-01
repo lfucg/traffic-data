@@ -1,12 +1,12 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
-New heading,,,,,
+The first row can fill in the sectionHeading,,,,,
 ,,,,,
 ,Emergency closure,,Whatever description,,x
 ,Traffic advisory,,Important thing,,
 ,Clarke County,,I-64 E at 86 MM,,
 ,,,,,
 ,Injury collision,outbound,Tates creek rd at Man o War Blvd,right lane blocked,
-,Injury collision,inbound ,Limestone at Short,one lane closed,
+,Injury collision,"inbound ",Limestone at Short,one lane closed,
 ,Injury collision,,,,
 ,Injury collision,,,,
 ,Injury collision,,,,
