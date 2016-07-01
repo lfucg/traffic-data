@@ -1,5 +1,5 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
-The first row can fill in the sectionHeading. Does it take html?,,,,,
+The first row can fill in the sectionHeading.,,,,,
 ,,,,,
 ,Emergency closure,,Whatever description,,x
 ,Traffic advisory,,Important thing,,
