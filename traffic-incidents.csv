@@ -1,7 +1,7 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
 Today's incidents,,,,,
 ,,,,,
-,Emergency closure,,Main St.,Something happened,x
+,Emergency closure,Inbound,Main St.,Something happened,x
 ,Traffic advisory,,,,
 ,Clarke County,,,,
 ,,,,,
