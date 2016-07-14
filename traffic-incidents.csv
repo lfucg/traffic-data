@@ -1,5 +1,5 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
-No delays due to collisions.,,,,,
+,,,,,
 ,,,,,
 ,Emergency closure,,,,
 ,Traffic advisory,,,,
@@ -11,7 +11,7 @@ No delays due to collisions.,,,,,
 ,Injury collision,,,,
 ,Injury collision,,,,
 ,,,,,
-,Non-injury collision,,,,
+,Non-injury collision,,here and there,,x
 ,Non-injury collision,,,,
 ,Non-injury collision,,,,
 ,Non-injury collision,,,,
