@@ -18,7 +18,7 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,Non-injury collision,,,,
 ,Non-injury collision,,,,
 ,Non-injury collision,,,,
-,Trees Down,,every which where,,c
+,Trees Down,,every which where,,
 ,Traffic Signals on Flash,,,,
 ,Traffic Signals on Flash,,,,
 ,,,,,
@@ -30,7 +30,7 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,Traffic hazard,,,,
 ,Traffic hazard,,,,
 ,,,,,
-,Stalled vehicle,,MOW at Nich,,
+,Stalled vehicle,,,,
 ,Stalled vehicle,,,,
 ,Stalled vehicle,,,,
 ,Stalled vehicle,,,,
