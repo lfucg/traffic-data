@@ -1,9 +1,6 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
 ,,,,,
 ,,,,,
-,Emergency closure,,,,
-,Traffic advisory,,right lane closed inbound Richmond at MOW.,,
-,,,,,
 ,Injury Collision,,Nicholasville at Pasadena,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
@@ -11,7 +8,7 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,Injury Collision,,,,
 ,Injury Collision,,,,
 ,,,,,
-,Non-Injury Collision,,,,
+,Non-Injury Collision,,MOW at Mapleleaf,Right lane blocked.,
 ,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
