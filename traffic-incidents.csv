@@ -1,5 +1,5 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
-,,,,,
+No delays due to collisions,,,,,
 ,,,,,
 ,Emergency closure,,,,
 ,Traffic advisory,,,,
@@ -7,7 +7,7 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
-,Injury Collision,,MOW @ Richmond Rd,,
+,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
 ,,,,,
