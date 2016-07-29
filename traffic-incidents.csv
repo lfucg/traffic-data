@@ -1,7 +1,7 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
+"Regular traffic reports will resume Monday, August 1st at 6:30am.",,,,,
 ,,,,,
-,,,,,
-,Injury Collision,,Tates Creek Rd between Hart Rd and Mt. Vernon Dr.,Inbound Tates Creek Shutdown,s
+,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
@@ -11,8 +11,8 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,,,,,
 ,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
-,Non-Injury Collision,,Saron Dr between Man O War Blvd and Chas Dr.,,
-,Non-Injury Collision,,Georgetown Rd near Spurr Rd.,,
+,Non-Injury Collision,,,,
+,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
 ,Non-Injury Collision,,,,
