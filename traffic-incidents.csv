@@ -1,7 +1,7 @@
 sectionHeading,incidentType,direction,location,description,displayAlert
+No delays due to collisions.,,,,,
 ,,,,,
-,,,,,
-,Injury Collision,,Outbound Harrodsburg Rd at Alexandria Dr,Four vehicles at the intersection.  Only the rightmost lane is open.,
+,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
 ,Injury Collision,,,,
@@ -16,7 +16,7 @@ sectionHeading,incidentType,direction,location,description,displayAlert
 ,,,,,
 ,Traffic Signals on Flash,,,,
 ,,,,,
-,Traffic Hazard,,Old Richmond Rd near McCalls Mill Rd,Downed tree blocking the inbound lane.  State highway dept is enroute.,
+,Traffic Hazard,,,,
 ,,,,,
 ,Stalled Vehicle,,W Vine St at S Mill St.,,
 ,Stalled Vehicle,,,,
