@@ -1,5 +1,5 @@
 sectionHeading,incidentType,location,description,displayAlert
-,,,,
+Regular traffic reports will resume Monday August 22 at 4:00 p.m.,,,,
 ,,,,
 ,No delays due to collisions.,,,
 ,Valley View Ferry,,,
@@ -9,7 +9,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Injury Collision,,,
 ,Injury Collision,,,
 ,,,,
-,Non-Injury Collision,Inner loop Man O War Blvd between Mapleleaf Dr and Darby Creek Dr,Left lane blocked.,
+,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
@@ -17,8 +17,6 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Non-Injury Collision,,,
 ,,,,
 ,Traffic Signals on Flash,,,
-,,,,
-,US-60 at I-64 in Franklin Co,,,x
 ,,,,
 ,Traffic Hazard,,,
 ,Traffic Hazard,,,
