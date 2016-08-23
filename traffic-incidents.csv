@@ -1,5 +1,5 @@
 sectionHeading,incidentType,location,description,displayAlert
-,,,,
+No delays due to collisions.,,,,
 ,,,,
 ,No delays due to collisions.,,,
 ,Valley View Ferry,,,
@@ -9,7 +9,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Injury Collision,,,
 ,Injury Collision,,,
 ,,,,
-,Non-Injury Collision,E Maxwell St at E High St.,,
+,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
