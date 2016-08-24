@@ -1,5 +1,5 @@
 sectionHeading,incidentType,location,description,displayAlert
-,,,,
+No delays due to collisions.,,,,
 ,,,,
 ,No delays due to collisions.,,,
 ,Valley View Ferry,,,
@@ -9,7 +9,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Injury Collision,,,
 ,Injury Collision,,,
 ,,,,
-,Non-Injury Collision,Virginia Ave between S Limestone and Winnie St,Right lane blocked.,
+,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
 ,Non-Injury Collision,,,
