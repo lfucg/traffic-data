@@ -1,8 +1,6 @@
 sectionHeading,incidentType,location,description,displayAlert
 ,,,,
 ,,,,
-,,,,
-,Valley View Ferry,,,
 ,No delays due to collisions.,,,
 ,,,,
 ,Injury Collisions,Harrodsburg Rd at Old Schoolhouse Ln,One lane blocked.,
@@ -22,7 +20,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Stalled Vehicle,,,
 ,Stalled Vehicle,,,
 ,,,,
-,,,,
+,Valley View Ferry,,,
 ,,,,
 ,,,,
 ,,,,
