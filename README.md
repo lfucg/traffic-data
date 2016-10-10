@@ -12,4 +12,6 @@ Any row with a 'location' will be displayed.
 
 ## Weekend impacts
 
-Any row with an 'event' will be displayed
+Any row with an 'event' will be displayed 
+
+
