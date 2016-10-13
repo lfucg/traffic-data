@@ -3,6 +3,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,,,,
 ,No delays due to collisions.,,,
 ,,,,
+,Traffic Advisory,Winchester Rd between E Loudon Ave and Industry Rd,Vehicle fire.  Roadway shutdown in both directions.,
 ,Injury Collisions,Outer loop Man O War Blvd at Blackford Pkwy,At least one lane blocked.,
 ,Injury Collisions,Clays Mill Rd at Wellington Way,One vehicle reportedly flipped.  At least one lane blocked.,
 ,Injury Collisions,,,
@@ -15,9 +16,8 @@ sectionHeading,incidentType,location,description,displayAlert
 ,,,,
 ,Traffic Signals on Flash,,,
 ,,,,
-,Traffic Hazard,Winchester Rd between E Loudon Ave and Industry Rd,Vehicle fire.  Roadway shutdown in both directions.,x
 ,,,,
-,Stalled Vehicle,Lane Allen Rd just prior to Harrodsburg Rd,Right lane blocked.,
+,Stalled Vehicle,,,
 ,Stalled Vehicle,,,
 ,,,,
 ,Valley View Ferry,,,
