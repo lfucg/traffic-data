@@ -3,7 +3,7 @@ sectionHeading,incidentType,location,description,displayAlert
 ,,,,
 ,No delays due to collisions.,,,
 ,,,,
-,Traffic Advisory,Winchester Rd between E Loudon Ave and Industry Rd,Vehicle fire.  Roadway shutdown in both directions.,
+,Traffic Advisory,Winchester Rd between E Loudon Ave and Industry Rd,Vehicle fire.  Roadway shutdown in both directions.,x
 ,Injury Collisions,Outer loop Man O War Blvd at Blackford Pkwy,At least one lane blocked.,
 ,Injury Collisions,Clays Mill Rd at Wellington Way,One vehicle reportedly flipped.  At least one lane blocked.,
 ,Injury Collisions,,,
@@ -15,7 +15,6 @@ sectionHeading,incidentType,location,description,displayAlert
 ,Non Injury Collisions,,,
 ,,,,
 ,Traffic Signals on Flash,,,
-,,,,
 ,,,,
 ,Stalled Vehicle,,,
 ,Stalled Vehicle,,,
