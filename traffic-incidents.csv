@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays due to traffic incidents.,,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -12,4 +12,4 @@ No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Outer loop Man O War Blvd just past Armstrong Mill Road,The right lane is blocked.,
