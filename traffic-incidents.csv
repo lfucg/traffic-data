@@ -1,6 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,,,
 ,,Injury Collision:,Inbound Nicholasville Road just prior to Southpoint Drive,The right lane is blocked.,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -16,4 +17,4 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Vehicle Fire:,,,
 ,,,,,
-,,Stalled Vehicle:,Inner loop New Circle Road at Georgetown Road,The inside left turn lane is blocked on the exit ramp.,
+,,Stalled Vehicle:,,,
