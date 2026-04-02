@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Thursday, April 2 at 4 p.m.",,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -19,3 +19,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Keeneland 2026 Spring Meet:,"No racing on Mondays, Tuesdays, or Easter Sunday.",,
 ,,Keeneland 2026 Spring Meet:,Post time is at 1 p.m. daily.,,
 ,,Keeneland 2026 Spring Meet:,Use added caution if traveling in the Keeneland area.,,
+,,,,,
+,,Cells.EntireColumn.Autofit,,,
