@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -12,9 +12,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Stalled Vehicle:,Outer loop New Circle Road at Leestown Road,A broken down semi is partially blocking the exit ramp.  Tow truck on scene.,
-,,,,,
-,,Traffic Advisory:,,,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Keeneland 2026 Spring Meet:,"Friday, April 3 thru Friday, April 24.",,
 ,,Keeneland 2026 Spring Meet:,"No racing on Mondays, Tuesdays, or Easter Sunday.",,
@@ -22,3 +20,4 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Keeneland 2026 Spring Meet:,Use added caution if traveling in the Keeneland area.,,
 ,,,,,
 ,,Cells.EntireColumn.Autofit,,,
+,,Note:  Do not delete the above entry.,,,
