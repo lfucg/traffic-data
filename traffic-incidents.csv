@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays at this time.,,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision,,,
 ,,Injury Collision:,,,
@@ -18,4 +18,4 @@ No delays at this time.,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
 ,,,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,I-75S at Iron Works Pike,At least one lane is blocked on the exit ramp.,
