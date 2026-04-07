@@ -1,20 +1,27 @@
 sectionHeading,,incidentType,location,description,displayAlert
+<<<<<<< HEAD
 "Traffic reports will resume on Tuesday, April 7 at 4 p.m.",,,,,
+=======
+,,,,,
+>>>>>>> 4faa6b4f310ed9f34e09f1483d29e9afa85af52c
 ,,,,,
 ,,Injury Collision,,,
 ,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
-,,Non-Injury Collision:,,,
-,,Non-Injury Collision:,,,
+,,Non-Injury Collision:,Citation Blvd at Georgetown Road.,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
+<<<<<<< HEAD
 ,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
+=======
+,,Stalled Vehicle:,Outbound Tates Creek Road at Armstrong Mill Road,The left turn lane is blocked.,
+>>>>>>> 4faa6b4f310ed9f34e09f1483d29e9afa85af52c
