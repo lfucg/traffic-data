@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,E. Third Street at Elm Tree Ln,One lane blocked across from the Lyric Theatre.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
