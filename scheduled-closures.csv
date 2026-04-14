@@ -1,5 +1,5 @@
 sectionHeading,closureBegin,closureEnd,location,impact,closedUntil,isNew
-"Closures scheduled for Tuesday, April 14",,,,,,
+"Closures scheduled for Wednesday, April 15",,,,,,
 ,,,,,,
 ,Closures scheduled 24 Hrs/Day:,,N. Limestone at New Circle Road,One outbound lane blocked for utility work.,April 27.,
 ,,,,,,
@@ -11,7 +11,7 @@ sectionHeading,closureBegin,closureEnd,location,impact,closedUntil,isNew
 ,Closures scheduled 7 a.m. - 7 p.m.:,,Eureka Springs Drive between Yellowstone Pkwy and Easthills Drive,,April 17.,
 ,Closures scheduled 7 a.m. - 7 p.m.:,,Trailwood Ln between McConnell Springs Road and Gauley Ln,,April 17.,
 ,,,,,,
-,Closures scheduled 8 a.m. - 4 p.m.:,,Fortune Drive between Liberty Road and Lighthouse Ln,One lane blocked for water line work.,April 14.,
+,Closures scheduled 8 a.m. - 4 p.m.:,,E. Seventh Street between Ohio Street and Chestnut Street,One lane blocked for water line restoration.,April 21.,x
 ,Closures scheduled 8 a.m. - 4 p.m.:,,Man O War Pl between Waller Avenue and Hummingbird Ln,One lane blocked for gas line work.,April 24.,
 ,Closures scheduled 8 a.m. - 4 p.m.:,,Pine Street between S. Broadway and S. Upper Street,One lane blocked and flagged for water line work.,April 28.,
 ,,,,,,
@@ -23,6 +23,7 @@ sectionHeading,closureBegin,closureEnd,location,impact,closedUntil,isNew
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Alexandria Drive between Leestown Road and Old Frankfort Pike,Single rolling lane closure for overhead cable work.,April 24.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Armstrong Mill Road at Greentree Road,One lane blocked and flagged for water line work.,May 12.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,E. Loudon Avenue between N. Limestone and Winchester Road,Single rolling lane closure for overhead cable work.,April 15.,
+,Closures scheduled 9 a.m. - 3 p.m.:,,E. Vine Street at Old Vine Street,One lane blocked for road restoration.,April 16.,x
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Manchester Street between Oliver Lewis Way and S. Forbes Road,One lane blocked for utility work.,April 30.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,N. Limestone between E. Loudon Avenue and New Circle Road,One lane blocked as needed for water line work.,May 10.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,N. Limestone between E. Sixth Street and E. Loudon Avenue,Alternating lane closures for road restoration.,May 1.,
@@ -30,8 +31,10 @@ sectionHeading,closureBegin,closureEnd,location,impact,closedUntil,isNew
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Newtown Pike between W. Loudon Avenue and W. Main Street,Single rollling lane closures for overhead cable work.,April 24.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Old Frankfort Pike between Alexandria Drive and Thompson Road,Single rollling lane closure for overhead cable work.,April 24.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Oliver Lewis Way between Manchester Street and W. Main Street,Single rolling lane closure for overhead cable work.,April 24.,
+,Closures scheduled 9 a.m. - 3 p.m.:,,Pimlico Pkwy between Kalone Way and Mt Rushmore Way,One lane blocked for road restoration.,April 21.,x
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Versailles Road between Cisco Road and Red Mile Road,Inbound right lane blocked for roadway improvement.,April 17.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,W. Loudon Avenue between Newtown Pike and N. Limestone,Single rolling lane closure for overhead cable work.,April 17.,
+,Closures scheduled 9 a.m. - 3 p.m.:,,W. Main Street between N. Mill Street and N. Broadway,Right lane blocked for sign installation.,April 15.,x
 ,Closures scheduled 9 a.m. - 3 p.m.:,,W. Maxwell Street between Lawrence Street and S. Upper Street,One lane blocked for water line work.,April 15.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,New Circle Road at Old Paris Road,Single turning lane blocked for utility work.,April 27.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,New Circle Road between Russell Cave Road and Bryan Avenue,Right lane blocked for water line repairs.,April 27.,
@@ -42,15 +45,11 @@ sectionHeading,closureBegin,closureEnd,location,impact,closedUntil,isNew
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Winchester Road between Polo Club Blvd and E. Loudon Avenue,Single rolling lane closure for overhead cable work.,April 15.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,E. Loudon Avenue at Bryan Avenue,One lane possibly blocked for construction.,April 17.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Fontaine Road between Chinoe Road and E. High Street,One lane blocked for water line work.,April 22.,
-,Closures scheduled 9 a.m. - 3 p.m.:,,Hiltonia Park near Nicholasville Road,One lane blocked for water line work.,April 14.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,N. Martin Luther King Blvd between E. Fifth Street and E. Sixth Street,One lane blocked for gas line work.,April 24.,
-,Closures scheduled 9 a.m. - 3 p.m.:,,Polo Club Blvd between Fitzgerald Ct and Winchester Road,Single rolling lane closure for electric pole installation.,April 14.,x
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Price Road between Fairdale Drive and W. Main Street,Alternating lane closures for milling and paving.,April 17.,
-,Closures scheduled 9 a.m. - 3 p.m.:,,S. Ashland Avenue between Ashland Ter and Euclid Avenue,Single rolling lane closure for road restoration.,April 21.,x
+,Closures scheduled 9 a.m. - 3 p.m.:,,S. Ashland Avenue between Ashland Ter and Euclid Avenue,Single rolling lane closure for road restoration.,April 21.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,S. Martin Luther King Blvd between E. High Street and E. Maxwell Street,Alternating lane closures for milling and paving.,April 24.,
 ,Closures scheduled 9 a.m. - 3 p.m.:,,Zandale Drive in the area of Nicholasville Road,Alternating lane closures for milling and paving.,April 17.,
-,,,,,,
-,Closures scheduled 7 p.m. - 5 a.m.:,,Euclid Avenue between E High Street and S. Ashland Avenue,Westbound direction closed for utility work.  Detour in place.,April 14.,
 ,,,,,,
 ,Closures scheduled 7 p.m. - 6 a.m.:,,N. Broadway at New Circle Road,Right lane and turn lane blocked for utility work.,April 27.,
 ,Closures scheduled 7 p.m. - 6 a.m.:,,N. Limestone between New Circle Road and Rosemary Avenue,Inbound lanes closed for utility work.  Detours in place.,April 27.,
