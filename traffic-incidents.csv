@@ -14,7 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Advisory:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Inbound Harrodsburg Road just past Old Higbee Mill Road,The right lane is blocked.,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
