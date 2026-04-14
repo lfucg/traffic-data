@@ -14,7 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,E. Main Street at Midland Avenue.,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
