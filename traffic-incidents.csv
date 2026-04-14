@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+"Traffic reports will resume on Wednesday, April 15 at 6:30 a.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -13,8 +13,8 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Advisory:,,,
 ,,,,,
-,,Stalled Vehicle:,Inner loop Man O War Blvd at Buckhorn Drive,The left turn lane is reportedly blocked.,
-,,Stalled Vehicle:,Inbound Harrodsburg Road just past Old Higbee Mill Road,The right lane is blocked.,
+,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
