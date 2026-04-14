@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Advisory:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Iron Works Pike at I-75,At least one lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
