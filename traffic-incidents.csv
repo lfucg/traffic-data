@@ -15,7 +15,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Advisory:,,,
 ,,,,,
-,,Stalled Vehicle:,Outer loop Man O War Blvd at Richmond Road,The left lane is blocked just before the intersection.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
