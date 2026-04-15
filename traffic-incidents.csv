@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Wednesday, April 15 at 4 p.m.",,,,,
+,,,,,
 ,,,,,
 ,,TRAFFIC ALERT:,Georgetown Street between Glen Arvin Avenue and Douglas Avenue,The roadway is shut down in both directions until further notice due to investigation of a serious collision involving a motorcyclist.,x
 ,,,,,
@@ -9,14 +9,14 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
-,,Non-Injury Collision:,,,
+,,Non-Injury Collision:,Inbound Clays Mill Road at McCubbing Drive,The right lane is blocked.,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
 ,,Traffic Advisory:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Georgetown Road at Citation Blvd.,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
