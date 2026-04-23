@@ -16,3 +16,4 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
+,,Cells.EntireColumn.AutoFit,,,
