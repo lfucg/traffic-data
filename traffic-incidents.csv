@@ -12,7 +12,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Advisory:,W. Loudon Avenue between N. Broadway and Russell Cave Road,The roadway is down to one lane toward Russell Cave Road due to emergency water main repair.,
 ,,,,,
-,,Stalled Vehicle:,W. Maxwell Street just prior to S. Upper Street,The left lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
