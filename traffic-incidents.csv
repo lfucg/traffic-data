@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays due to traffic incidents.,,,,,
+"Traffic reports will resume on Friday, April 24 at 4 p.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -16,5 +16,4 @@ No delays due to traffic incidents.,,,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
-,,Cells.EntireColumn.AutoFit,,,
 ,,Cells.EntireColumn.AutoFit,,,
