@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
+No delays due to traffic incidents.,,,,,
 ,,,,,
-,,,,,
-,,Injury Collision:,Inner loop New Circle Road between Newtown Pike and Boardwalk,Single vehicle.,
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -12,7 +12,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,Inner loop Man O War Blvd at Richmond Road,The outside left turn lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
