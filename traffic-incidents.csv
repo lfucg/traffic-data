@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reporting will resume Monday, May 4th at 6:30 am",,,,,
+"Traffic reports will resume on Monday, May 4 at 6:30 a.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -15,10 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,,,,
-,,Ramp Closure Scheduled for I-75N at Paris Pike (Exit 113):,"Friday, May 1 at 6:30 p.m. to Tuesday, May 5 at 6 a.m.",,
-,,Ramp Closure Scheduled for I-75N at Paris Pike (Exit 113):,The exit ramp from I-75N to Paris Pike will be closed for construction.,,
-,,Ramp Closure Scheduled for I-75N at Paris Pike (Exit 113):,Detour: Exit 110 (Winchester Road) or Exit 115 (Newtown Pike) to New Circle Road to Paris Pike.,,
 ,,,,,
 ,,Do not delete these two cells.,,,
 ,,Cells.EntireColumn.AutoFit,,,
