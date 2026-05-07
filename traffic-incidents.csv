@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,,,
 ,,Injury Collision:,Iron Works Pike at Georgetown Road.,,
-,,Injury Collision:,Inbound Paris Pike at Parkside Drive,At least one lane is blocked.,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -12,7 +12,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Traffic Hazard:,Inner loop New Circle Road between Leestown Road and Georgetown Road,A piece of tree equipment is blocking the right lane.,
+,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
