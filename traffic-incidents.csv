@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Monday, May 11 at 4 p.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -7,7 +7,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
-,,Non-Injury Collision:,,,
+,,Non-Injury Collision:,Inbound Richmond Road near Shoreside Drive.,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
@@ -15,6 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
-,,I-64E at the 33 MM in Shelby Co:,The roadway remains shut down until further notice due to cleanup from an earlier collision involving a semi.,,
+,,UPDATE:  I-64E at the 33 MM in Shelby Co:,Incident cleared.  All lanes are now open.,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
