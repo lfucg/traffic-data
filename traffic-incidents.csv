@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -14,8 +14,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Advisory:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,,,,
-,,I-64W at the 33 MM in Shelby Co:,All westbound lanes are shut down due to a collision.,,
-,,I-64W at the 33 MM in Shelby Co:,Detour at Exit 35 to US-60 to Taylorsville Road and back to I-64W.,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
