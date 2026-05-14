@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Thursday, May 14 at 6:30 a.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -14,5 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Advisory:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
+,,,,,
+,,I-64W at the 33 MM in Shelby Co:,All westbound lanes are shut down due to a collision.,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
