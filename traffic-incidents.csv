@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -13,6 +13,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,Outer loop Man O War Blvd just past Richmond Road,The left lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
