@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+There are currently no delays due to collision,,,,,
 ,"Traffic reporting will resume Wednesday, June 10th at 4:00 pm",,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -15,7 +15,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
-,,Stalled Vehicle:,Autumn Ridge Drive and Todds Road,,
+,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
