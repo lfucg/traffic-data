@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays at this time.,,,,,
 ,,,,,
 ,,,,,
 ,,,,,
@@ -19,6 +19,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,SB I-75 just before MM 115.,Lane reportedly blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
