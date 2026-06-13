@@ -1,8 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reporting will resume Monday, June 15th at 7:00 am.",,,,,
-,,,,,
-,,,,,
-,,,,,
+"Traffic reports will resume on Monday, June 15 at 6:30 a.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -17,6 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
+,,,,,
 ,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
