@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,I-64W near the Scott Co line,At least one lane is blocked.,
+,,Injury Collision:,,,
 ,,Injury Collision:,Todds Road at Sulphur Ln,Single motorcycle.,
 ,,Injury Collision:,Long Branch Ln at Angel Falls Drive.,,
 ,,,,,
@@ -18,4 +18,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
+,,I-64W near the 71 MM in Scott Co:,At least one lane is blocked due to an injury collision.,,
 ,,Cells.EntireColumn.AutoFit,,,
