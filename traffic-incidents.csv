@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -15,6 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Inbound Georgetown Road near Kearney Road,One lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
