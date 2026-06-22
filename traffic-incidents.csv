@@ -1,6 +1,6 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"The Lexington Traffic Management Center will be closed on Friday, June 19 in observance of Juneteenth.",,,,,
-"Traffic reports will resume on Monday, June 22 at 6:30 a.m.",,,,,
+,,,,,
+,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
 ,,,,,
@@ -15,4 +15,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
+,,I-75S at the 133 MM in Scott Co:,At least one lane is blocked due to a vehicle fire.,,
 ,,Cells.EntireColumn.AutoFit,,,
