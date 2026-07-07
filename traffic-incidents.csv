@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,,,
 ,,Injury Collision:,Laredo Drive at Walden Drive.,,
-,,Injury Collision:,Darby Creek Road at Palumbo Drive.,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -11,9 +11,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Alert:,Delong Road near Walnut Hill Road,Various downed trees in the area.  The roadway is shut down.  City crews have been notified.,x
 ,,,,,
-,,Traffic Advisory:,Tates Creek Road in the area between Delong Road and E. Brannon Road,Reports of possible high water.  Do not drive through high water.,
-,,,,,
-,,Traffic Signals on Flash:,Tates Creek Road at Man O War Blvd,Use added caution.  Police directing traffic.,
+,,Traffic Signals on Flash:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
