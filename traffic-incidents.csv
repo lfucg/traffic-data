@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Tuesday, July 14 at 4 p.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -9,7 +9,8 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
 ,,,,,
-,,Traffic Hazard:,,,
+,,Traffic Advisory:,W. Main Street between N. Limestone and N. Upper Street,The right lane is blocked for emergency water main repair.,
+,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
