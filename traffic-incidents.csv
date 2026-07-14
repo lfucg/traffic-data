@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -8,8 +8,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
-,,,,,
-,,Traffic Advisory:,W. Main Street between N. Limestone and N. Upper Street,The right lane is blocked for emergency water main repair.,
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
