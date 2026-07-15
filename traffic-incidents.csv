@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Wednesday, July 15 at 4 p.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Outbound Tates Creek Road at Redding Road,The left turn lane to Armstrong Mill Road is blocked.,
+,,Stalled Vehicle:,Outer loop Man O War Blvd near Versailles Road,The left lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
