@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Friday, July 17 at 7 a.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -14,4 +14,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
+,,I-64W at the 56 MM in Franklin Co:,The roadway is reportedly shut down just prior to the Kentucky River due to a collision involving an overturned vehicle.,,x
 ,,Cells.EntireColumn.AutoFit,,,
