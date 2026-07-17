@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -16,5 +16,4 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
-,,I-64W at the 56 MM in Franklin Co:,The roadway is shut down due to a collision involving an overturned vehicle.  Traffic diverted at Exit 58 (US-60).,,x
 ,,Cells.EntireColumn.AutoFit,,,
