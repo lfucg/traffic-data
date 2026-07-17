@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,"Traffic reports will resume on Friday, July 17 at 4 p.m.",,,
-,,Injury Collision:,,,
+,,Injury Collision:,Richmond Road and Mt Tabor Road,,
 ,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Stalled Vehicle:,Inbound Broadway at Fourth Street,,
+,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
