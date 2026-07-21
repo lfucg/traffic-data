@@ -1,8 +1,6 @@
 sectionHeading,,incidentType,location,description,displayAlert
 "Traffic reports will resume on Tuesday, July 21 at 4 p.m.",,,,,
 ,,,,,
-,,Traffic Alert for Clays Mill Road:,The roadway is shut down in both directions at Stratford Drive due to investigation of a serious collision.,,x
-,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
 ,,,,,
@@ -17,6 +15,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
-,,NWS Flood Watch:,In effect from July 21 at 1 p.m. to July 22 at 2 a.m.,,
+,,NWS Severe Thunderstorm Watch:,In effect until July 21 at 10 p.m.,,
+,,NWS Flood Watch:,In effect until July 22 at 2 a.m.,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
