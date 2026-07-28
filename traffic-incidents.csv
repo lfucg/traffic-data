@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reporting will resume Tuesday, July 28th at 7:00 am.",,,,,
+"Traffic reports will resume on Tuesday, July 28 at 6:30 a.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -13,7 +13,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Vehicle Fire,,,
 ,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
