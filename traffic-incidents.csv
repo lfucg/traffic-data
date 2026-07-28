@@ -1,9 +1,9 @@
 sectionHeading,,incidentType,location,description,displayAlert
+"Traffic reports will resume on Wednesday, July 29 at 6:30 a.m.",,,,,
 ,,,,,
-,,,,,
-,,Injury Collision:,Jefferson Street between W. Main Street and W. Short Street,A bicyclist is involved.  The lane toward Short St is shut down.,
-,,Injury Collision:,Outer loop New Circle Road at Old Paris Road,The roadway is shut down.,x
-,,Injury Collision:,Shoal Lake Drive near Travis Ct.,,
+,,Injury Collision:,,,
+,,Injury Collision:,,,
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -15,8 +15,5 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Signals on Flash:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,,,,
-,,I-75S at the 77 MM in Madison Co:,The roadway is shut down due to a collision.  Traffic diverted at Exit 83.,,x
-,,I-75S at the 77 MM in Madison Co:,Motorists can then use US-25S to Berea and back to I-75S at Exit 76.,,x
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
