@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+"Traffic reporting will resume Thursday, July 30th at 6:30 am.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,Russell Cave Rd at Faith St,Russell Cave Rd is blocked between Faith St and Park Pl.,
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -13,6 +13,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Stalled Vehicle:,Inner loop Man O War Blvd at Nicholasville Rd,Left through lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
