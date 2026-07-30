@@ -1,6 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Traffic Alert:,Winchester Road at I-75N,The on-ramp from Winchester Road to I-75N is shut down due to state highway construction.,x
+,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
 ,,,,,
@@ -9,7 +11,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,Winchester Road near Haley Road.,,
 ,,,,,
-,,Traffic Alert:,Winchester Road at I-75N,The on-ramp from Winchester Road to I-75N is shut down due to state highway construction.,x
+,,Traffic Hazard:,,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
