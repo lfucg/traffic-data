@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Friday, July 31 at 4 p.m.",,,,,
+,,"Traffic reports will resume on Friday, July 31 at 4 p.m.",,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -13,6 +13,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,The outer loop of New Circle Road and Woodhill Drive,blocking traffic,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
