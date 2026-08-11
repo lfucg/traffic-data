@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -14,6 +14,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,Inbound Tates Creek Road at New Circle Road,The left turn lane is blocked under the overpass.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
