@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -16,6 +16,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Signals Dark:,,,
 ,,Traffic Signals Dark:,,,
 ,,,,,
-,,Stalled Vehicle:,Outbound Newtown Pike at Citation Blvd,The left turn lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
