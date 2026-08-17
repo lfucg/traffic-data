@@ -1,6 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,N. Cleveland Road near Briar Hill Road,Single overturned vehicle.,
 ,,Injury Collision:,N. Broadway at W. Third Street,Four vehicles.  Various lanes are blocked.,
 ,,Injury Collision:,Citation Blvd at Greendale Road,Three vehicles reportedly involved.  Various lanes are blocked.,
 ,,,,,
@@ -14,7 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Signals Dark:,Use added caution at the following intersections and treat as All-Way stops:,,
 ,,Traffic Signals Dark:,N. Broadway at W. Third Street.,,
 ,,Traffic Signals Dark:,Alumni Drive at New Circle Road.,,
-,,Traffic Signals Dark:,Citation Blvd at Greendale Road.,,
 ,,Traffic Signals Dark:,New Circle Road at Jingle Bell Ln.,,
 ,,,,,
 ,,Stalled Vehicle:,,,
