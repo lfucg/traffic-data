@@ -19,6 +19,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Signals Dark:,,,
 ,,Traffic Signals Dark:,,,
 ,,,,,
+,,Stalled Vehicle:,Outbound Newtown Pike at Citation Blvd,Left turn lane is blocked.,
 ,,Stalled Vehicle:,Outbound Georgetown Road at Nandino Blvd,Left turn lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
