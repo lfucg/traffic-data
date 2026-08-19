@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays due to traffic incidents.,,,,,
+,,,,,
 ,,,,,
 ,,,,,
 ,,Injury Collision:,,,
@@ -11,8 +11,7 @@ No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,,,,
-,,Traffic Hazard:,,,
+,,Traffic Alert:,Newtown Pike at Citation Blvd,The intersection is reportedly shut down due to construction.,x
 ,,,,,
 ,,Traffic Signals Dark:,,,
 ,,Traffic Signals Dark:,,,
