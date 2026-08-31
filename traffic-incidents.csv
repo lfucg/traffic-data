@@ -14,6 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
+,,Stalled Vehicle:,Inbound Tates Creek Road at Cooper Drive,Inbound lane is blocked.,
 ,,Stalled Vehicle:,Inbound Harrodsburg Road at Alexandria Drive,Left turn lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
