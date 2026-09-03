@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+"Traffic reports will resume on Friday, Sept. 4 at 7:00 a.m.",,,,,
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,Mason Headley Road at Shaker Drive,At least one lane is blocked.,
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -14,6 +14,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Patchen Drive at Mount Tabor Road,A semi is blocking one lane.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
