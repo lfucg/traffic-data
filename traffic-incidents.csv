@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,Inbound Harrodsburg Road at Ft Harrods Drive,The right lane and turn lane are blocked.  The south side of Ft Harrods Drive is blocked.,
+,,Injury Collision:,Inbound Harrodsburg Road at Ft Harrods Drive,The right turn lane is blocked.  Access to Ft Harrods Drive is blocked.,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -12,7 +12,8 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Inbound Newtown Pike at W. Short Street,The right lane is blocked.,
+,,Stalled Vehicle:,W. Main Street just past N. Broadway,The right lane is blocked.,
 ,,,,,
 ,,Scheduled Intersection Closure on E. High Street at Euclid Avenue/Fontaine Road:,"Wednesday, Sept. 16 at 7 p.m. thru Thursday, Sept. 17 at 6 a.m.",,
 ,,Scheduled Intersection Closure on E. High Street at Euclid Avenue/Fontaine Road:,The intersection will be completely closed for paving work.,,
