@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,Inbound Nicholasville Road at Brigadoon Pkwy,The middle and right lanes are blocked.,
+,,Injury Collision:,Inbound Nicholasville Road at Brigadoon Pkwy,The right lane is blocked.,
 ,,,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,W. Main Street just past N. Broadway,The right lane is blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Scheduled Intersection Closure on E. High Street at Euclid Avenue/Fontaine Road:,"Wednesday, Sept. 16 at 7 p.m. thru Thursday, Sept. 17 at 6 a.m.",,
 ,,Scheduled Intersection Closure on E. High Street at Euclid Avenue/Fontaine Road:,The intersection will be completely closed for paving work.,,
