@@ -1,11 +1,12 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,,,
 ,,Injury Collision:,Inbound 3347 Georgetown Road,One lane blocked.,
-,,Injury Collision:,Georgetown Road at Citation Boulevard,Intersection blocked.,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
+,,Non-Injury Collision:,Georgetown Road at Citation Boulevard,Intersection blocked.,
 ,,Non-Injury Collision:,Inbound 4580 Nichoalsville Road,One lane blocked.,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
