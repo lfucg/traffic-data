@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays due to traffic incidents.,,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,Muir Station Road at Buggy Lane,Both roads are shutdown.,x
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -13,6 +13,6 @@ No delays due to traffic incidents.,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Liberty Road at E New Circle Road,Middle lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
