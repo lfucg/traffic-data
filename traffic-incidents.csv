@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,,,
+,,Injury Collision:,Todds Road between Polo Club Blvd and Todds Station,Single vehicle off the roadway.,
 ,,Injury Collision:,Outbound Richmond Road just prior to Ellerslie Park Blvd,One lane is blocked.,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -13,7 +13,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,,,,
+,,Stalled Vehicle:,,,
 ,,Stalled Vehicle:,Outer loop Man O War Blvd at Pink Pigeon Pkwy,The right turn lane is blocked.,
-,,Stalled Vehicle:,Outer loop New Circle Road between Richmond Road and Woodhill Drive,The right lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
