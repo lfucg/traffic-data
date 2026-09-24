@@ -1,6 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Traffic Alert for Newtown Pike:,All outbound lanes are shut down between Citation Blvd and I-75 due to cleanup of a large amount of nails and screws on the roadway.,,x
+,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,Georgetown Road at Oakwood Drive,At least one lane is blocked.,
 ,,,,,
@@ -11,8 +13,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
-,,,,,
-,,Traffic Alert:,Outbound Newtown Pike between Sugar Maple Ln and Aristides Blvd,The roadway is temporarily shut down due to cleanup of a large amount of screws on the roadway.,x
 ,,,,,
 ,,Traffic Alert Due to Structure Fire:,Malone Drive between Lovell Ct and Wilmington Ln,The roadway is shut down in this area until further notice.,x
 ,,,,,
