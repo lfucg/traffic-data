@@ -4,7 +4,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Alert for Newtown Pike:,All outbound lanes are shut down between Citation Blvd and I-75 due to cleanup of a large amount of nails and screws on the roadway.,,x
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,Georgetown Road at Oakwood Drive,At least one lane is blocked.,
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
@@ -14,10 +14,8 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,Traffic Signals on Flash:,,,
 ,,,,,
-,,Traffic Alert Due to Structure Fire:,Malone Drive between Lovell Ct and Wilmington Ln,The roadway is shut down in this area until further notice.,x
+,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,,,,
-,,W. Lexington Avenue (US-60) at Bel Air Drive in Winchester (Clark Co):,The roadway is shut down in both directions until further notice due to a collision.,,x
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
