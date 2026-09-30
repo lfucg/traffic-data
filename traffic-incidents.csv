@@ -1,8 +1,12 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Traffic Alert for W. Main Street:,Due to a collision at Upper Street:,,x
+,,Traffic Alert for W. Main Street:,Main Street traffic diverted to N. Limestone.,,x
+,,Traffic Alert for W. Main Street:,Upper Street traffic diverted to Short Street.,,x
+,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,W. Main Street at S. Upper Street,"The intersection is shut down.  Main Street traffic diverted to N. Limestone, and Upper Street traffic diverted to Short Street.",x
+,,Injury Collision:,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
