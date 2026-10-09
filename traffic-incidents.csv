@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -8,7 +8,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,Non-Injury Collision:,,,
 ,,,,,
-,,Traffic Signals Dark:,Newtown Pike at Sugar Maple Lane,Signals dark. Treat as 4-way stop.,
+,,Traffic Signals Dark:,,,
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
