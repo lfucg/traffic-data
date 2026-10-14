@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
-No delays due to traffic incidents.,,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,,,
+,,Injury Collision:,Outbound Leestown Road at Citation Blvd,Vehicles in the intersection.  All outbound lanes are shut down.,x
 ,,,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
