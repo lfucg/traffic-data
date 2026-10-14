@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,Inbound Versailles Road at Bennett Avenue,A pedestrian is involved.  The left lane is blocked.,
+,,Injury Collision:,,,
 ,,Injury Collision:,Fontaine Road at Culpepper Road,At least one lane is blocked.,
 ,,,,,
 ,,,,,
@@ -14,7 +14,7 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,Outer loop Man o War Blvd at Armstrong Mill Road,One lane is reportedly blocked.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
