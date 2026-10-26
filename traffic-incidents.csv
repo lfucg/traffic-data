@@ -1,6 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
+,,Injury Collision:,Georgetown Road near Iron Works Pike.,,
 ,,Injury Collision:,Outbound Paris Pike at Old Paris Road,Vehicles in the intersection.  All outbound lanes are blocked.,x
 ,,Injury Collision:,Outbound Harrodsburg Road at Lane Allen Road,Vehicles in the intersection.  All outbound lanes are shut down.  Eastbound Lane Allen Road is also shut down.,x
 ,,,,,
@@ -16,6 +17,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Inbound Georgetown Road just prior to Berea Road,The inbound lane is blocked for vehicle removal.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
