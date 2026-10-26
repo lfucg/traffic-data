@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,Georgetown Road near Iron Works Pike.,,
+,,Injury Collision:,,,
 ,,Injury Collision:,Outbound Paris Pike at Old Paris Road,Vehicles in the intersection.  All outbound lanes are shut down.  Traffic diverted to Old Paris Road.,x
 ,,Injury Collision:,Outbound Harrodsburg Road at Lane Allen Road,Vehicles in the intersection.  All outbound lanes are shut down.  Eastbound Lane Allen Road is also shut down.,x
 ,,,,,
@@ -17,6 +17,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Inner loop New Circle Road at Palumbo Drive.,,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
