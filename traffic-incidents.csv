@@ -1,7 +1,7 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Injury Collision:,Bryan Avenue at New Circle Road,One lane is blocked.,
+,,Injury Collision:,Bryan Avenue at New Circle Road,The inbound lane is shut down.,x
 ,,Injury Collision:,I-75N near the 119 MM,Single vehicle off the roadway.,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -14,6 +14,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Inbound Nicholasville Road at Brigadoon Pkwy,The middle lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
