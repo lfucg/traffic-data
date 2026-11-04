@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Wednesday, Nov. 4 at 6:30 a.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
-,,Injury Collision:,,,
+,,Injury Collision:,Polo Club Blvd at Man o War Blvd.,,
 ,,,,,
 ,,,,,
 ,,Non-Injury Collision:,,,
@@ -16,6 +16,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,I-75N at Exit 104 (Athens Boonesboro,The left turn lane is blocked at the top of the exit ramp.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
