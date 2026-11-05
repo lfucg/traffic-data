@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-"Traffic reports will resume on Thursday, Nov. 5 at 6:30 a.m.",,,,,
+,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -16,6 +16,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,,,
+,,Stalled Vehicle:,Outbound Georgetown Road at Citation Blvd,One lane is blocked.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
