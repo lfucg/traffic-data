@@ -1,5 +1,5 @@
 sectionHeading,,incidentType,location,description,displayAlert
-,,,,,
+No delays due to traffic incidents.,,,,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -15,6 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,,,,
 ,,Stalled Vehicle:,,,
-,,Stalled Vehicle:,Man O'War Boulevard at Clays Mill Road,Left turn lane blocked. Proceed with caution.,
+,,Stalled Vehicle:,,,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
