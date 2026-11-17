@@ -1,8 +1,8 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Traffic Alert for Man o War Blvd at Tates Creek Road:,The outer loop is shut down until further notice due to a serious collision.,,x
-,,Traffic Alert for Man o War Blvd at Tates Creek Road:,The outer loop of Man o War Blvd is being diverted to Saron Drive.,,x
+,,Traffic Alert for Man o War Blvd:,The outer loop is shut down at Saron Drive until further notice due to a serious collision at Tates Creek Road.,,x
+,,Traffic Alert for Man o War Blvd:,Note:  The inner loop of Man o War Blvd and both directions of Tates Creek Road are open.,,
 ,,,,,
 ,,Injury Collision:,,,
 ,,Injury Collision:,,,
@@ -15,7 +15,6 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
 ,,,,,
-,,Stalled Vehicle:,Inbound Versailles Road at Man o War Blvd,The middle lane is blocked just before the intersection.,x
-,,Stalled Vehicle:,E. Vine Street at S. Limestone.,,
+,,Stalled Vehicle:,Inbound Versailles Road at Man o War Blvd,The middle lane is blocked just before the intersection.,
 ,,,,,
 ,,Cells.EntireColumn.AutoFit,,,
