@@ -1,8 +1,6 @@
 sectionHeading,,incidentType,location,description,displayAlert
 ,,,,,
 ,,,,,
-,,Traffic Alert for S. Upper Street:,The roadway is shut down between W. High Street and W. Maxwell Street due to a structure fire.,,x
-,,,,,
 ,,Traffic Alert for Rose Street:,The roadway is shut down between E. Maxwell Street and Grosvenor Avenue until further notice due to damaged power lines reportedly as a result of a collision involving a school bus.,,x
 ,,,,,
 ,,Injury Collision:,,,
@@ -13,6 +11,8 @@ sectionHeading,,incidentType,location,description,displayAlert
 ,,Non-Injury Collision:,,,
 ,,,,,
 ,,Traffic Signals on Flash:,,,
+,,,,,
+,,Traffic Advisory:,S. Upper Street between W. High Street and W. Maxwell Street,The right lane is blocked.  Fire Dept on scene of a structure fire.,
 ,,,,,
 ,,Traffic Hazard:,,,
 ,,Traffic Hazard:,,,
